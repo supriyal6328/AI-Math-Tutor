@@ -4,10 +4,10 @@
 
 |       NAME       |    ROLE   |          EMAIL         |
 |:----------------:|:---------:|:----------------------:|
-|   Pious Lara I   | Team Lead | 6296@velsrscollege.com |
-|      Vijay R     |   Member  | 6334@velsrscollege.com |
-| Sarugeshwaran S  |   Member  | 6315@velsrscollege.com |
-|     Mukesh P     |   Member  | 6289@velsrscollege.com |
+|     Supriya L    | Team Lead | 6328@velsrscollege.com |
+|   Sharmithaa P   |   Member  | 6320@velsrscollege.com |
+|    Dhariya M     |   Member  | 6247@velsrscollege.com |
+|    Praveena R    |   Member  | 6300@velsrscollege.com |
 
 This project is a Streamlit app that accepts an image of an algebra problem, converts it to LaTeX, solves symbolically and numerically using SymPy, checks for common mistakes, and presents a step-by-step solution card.
 
